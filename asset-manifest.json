@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.44dfb37c.css",
+    "main.js": "/static/js/main.44aa9913.js",
+    "static/media/bg-stars.svg": "/static/media/bg-stars.166881a1c03d6b1239f5.svg",
+    "static/media/pattern-hills.svg": "/static/media/pattern-hills.815d688fd937623063b5.svg",
+    "index.html": "/index.html",
+    "main.44dfb37c.css.map": "/static/css/main.44dfb37c.css.map",
+    "main.44aa9913.js.map": "/static/js/main.44aa9913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44dfb37c.css",
+    "static/js/main.44aa9913.js"
+  ]
+}
